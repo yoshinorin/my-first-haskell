@@ -1,0 +1,2 @@
+- [環境構築](https://zenn.dev/mod_poppo/articles/haskell-setup-2023)
+- [GHC](https://www.haskell.org/ghcup/steps/)
